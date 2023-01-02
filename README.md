@@ -11,4 +11,4 @@ In this repo, you will find three folders:
 
 1)**Weather_Database**: contains a Jupyter Notebook using Python and the Openmap API for weather. 
 2)**Vacation_Search**: conatins a Jupyter Notebook using Python and the GeoApify API for a hotel search using the generated csv file from the weather_database. 
-3)**Vacation_Itinerary**: contains a Jupyter Notebook using Pythin and the GeoApify API for the route planner based on a choosen route between 5 points. 
+3)**Vacation_Itinerary**: contains a Jupyter Notebook using Python and the GeoApify API for the route planner based on a choosen route between 5 points. 
